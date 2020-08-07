@@ -2,9 +2,10 @@
 
 Recuerden ejecutar
 
-````
-npm instll
 ```
+npm install
+```
+
 para cargar librereías
 
 ### Ejemplo
@@ -12,4 +13,3 @@ para cargar librereías
 ```
 node app -d madrid
 ```
-````
